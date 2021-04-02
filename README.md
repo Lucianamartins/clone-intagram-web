@@ -28,7 +28,7 @@ Essas instruções fornecerão uma cópia do projeto completo instalado e funcio
 * Para fazer o download do projeto siga as seguintes instruções:
 
 ```
-1. git clone https://github.com/WellingtonFreitas/crashquiz.git
+1. https://github.com/Lucianamartins/clone-intagram-web.git
 ```
 
 
@@ -39,7 +39,7 @@ Para executar o projeto basta ir na pasta onde voçê descompactou o arquivo bai
 ### Autor
 ---
 
-<a href="https://github.com/WellingtonFreitas">
+<a href="https://github.com/Lucianamartins">
  <img style="border-radius: 100%;" src=https://avatars.githubusercontent.com/u/78090280?v=4" width="100px;" alt=""/>
  <br />
  <sub><b>Luciana Martins</b></sub></a> <a> 
